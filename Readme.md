@@ -15,5 +15,6 @@ algorithms (search, sorting, recursion, dynamic programming) in Python, designed
 9.        Dynamic Programming assignment
 10.       Graph Algorithms
 11.       Problem Solving- Minimum edit distance
-12.       Problem Solving - Subarray with given sum      
+12.       Problem Solving - Subarray with given sum
+13.       Python Project on Longest Common Prefix      
 
